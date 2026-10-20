@@ -11,6 +11,8 @@
 |---|---|
 | **[reftool](https://github.com/m-higashi/reftool)** | 手元の PDF / PPT / PPTX を1ファイルも移動せずに一覧・検索・整理する文献リファレンスツール（Python・依存4つ） |
 | **[focus-tracker](https://github.com/m-higashi/focus-tracker)** | 作業1件ごとにワンタップ記録、休憩アラートと集中力の統計まで。キャラクターが見守る集中力トラッカー（Node.js・依存ゼロ） |
+| **[exam-drill](https://github.com/m-higashi/exam-drill)** | 答えの無い過去問を、自分で解きながら解説つきの問題集に育てる練習アプリ。まちがい復習・スマホ対応（Python 標準ライブラリのみ・依存ゼロ） |
+| **[Benchforge](https://github.com/m-higashi/benchforge)** | 手元の PC で動く AI に試験問題を解かせ、成績を信頼区間・検定つきで比べる評価ツール。画像問題対応・外部送信なし（Python・ollama） |
 
 ### 作るときに決めていること
 
